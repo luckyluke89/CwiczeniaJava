@@ -33,7 +33,7 @@ public class CwiczeniaJava {
         }
         System.out.println("");
 
-        flota.get(1).ruszaj();
+        flota.get(2).ruszaj();
         flota.get(3).ruszaj();
     }
 }
